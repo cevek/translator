@@ -1,0 +1,12 @@
+{
+    "name": "translator",
+    "version": "0.0.1",
+    "dependencies": {
+        "mysql": "2.0.0",
+        "express": "3.3.4",
+
+        "cevek-rest": "*",
+        "cevek-tools": "*"
+
+    }
+}
